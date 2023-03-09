@@ -1,0 +1,12 @@
+html, body { height: 100%; }
+body {
+	display: flex;
+	align-items: center;
+	background-color: #F1F1F1;
+}
+.form {
+	width: 100%;
+	max-width: 400px;
+	padding: 10px;
+	margin: auto;
+}
